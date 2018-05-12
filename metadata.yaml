@@ -1,0 +1,30 @@
+_repo: History-of-Company-F-1st-Regiment-R.I.-Volunteers-during-the-Spring-and-Summer-of-1861_28481
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clarke, Charles H.
+    gutenberg_agent_id: '33353'
+    url: http://www.gutenberg.org/2009/agents/33353
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2009-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rhode Island. Militia'
+- !lcsh 'Rhode Island -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States. Army. Rhode Island Infantry Regiment, 1st (1861-1865). Company
+  F'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+title: History of Company F, 1st Regiment, R.I. Volunteers, during the Spring and
+  Summer of 1861
+url: http://www.gutenberg.org/ebooks/28481
